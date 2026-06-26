@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
