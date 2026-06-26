@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0055-jump-game) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
