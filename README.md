@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0055-jump-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0055-jump-game) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0443-string-compression) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
