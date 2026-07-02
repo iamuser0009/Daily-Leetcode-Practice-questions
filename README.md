@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0443-string-compression) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2785-sort-vowels-in-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2785-sort-vowels-in-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2785-sort-vowels-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
