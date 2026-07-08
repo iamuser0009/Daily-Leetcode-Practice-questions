@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0283-move-zeroes) |
@@ -103,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
