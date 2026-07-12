@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1672-richest-customer-wealth](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0013-roman-to-integer) |
 | [0229-majority-element-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2785-sort-vowels-in-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2785-sort-vowels-in-a-string) |
 ## Prefix Sum
