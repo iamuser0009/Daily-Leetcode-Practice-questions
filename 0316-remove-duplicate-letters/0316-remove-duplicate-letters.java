@@ -1,35 +1,36 @@
 class Solution {
     public String removeDuplicateLetters(String s) {
-        HashMap <Character, Integer> map = new HashMap<>();
-        for( int i=0; i<s.length(); i++)
-        {
-            char ch = s.charAt(i);
-            map.put( ch, map.getOrDefault(ch, 0)+1);
+        HashMap<Character, Integer> last = new HashMap<>();
+        for(int i=0 ; i<s.length(); i++){
+            last.put(s.charAt(i), i);
         }
-        boolean [] visited = new boolean[26];
-        Stack <Character> stack = new Stack<>();
-        for( int i=0; i<s.length(); i++)
-        {
+        int[] presentInStack = new int[26];
+
+        Stack<Character> stack = new Stack<>();
+        for( int i=0; i<s.length(); i++){
             char ch = s.charAt(i);
-            map.put( ch , map.get(ch) -1);
-            if (visited[ch - 'a']) continue;
-           
-            while( !stack.isEmpty() && stack.peek() >ch && map.get(stack.peek()) >0)
-            {
-               visited[stack.pop()-'a'] =false;
 
+             if (presentInStack[ch - 'a'] > 0)
+                continue;
+            while(!stack.isEmpty() && stack.peek() > ch && last.get(stack.peek())>i )
+            {   
+                
+               presentInStack[stack.pop()-'a'] --;
+              
+                
             }
-            stack.push(ch);
-            visited [ch-'a' ]= true;
-
+         stack.push(ch);
+         presentInStack[ch-'a' ]++;
+         
 
         }
         StringBuilder sb = new StringBuilder();
-        for( char ch : stack)
+        while(!stack.isEmpty())
         {
-            sb.append(ch);
+            sb.append(stack.pop());
         }
-        return sb.toString();
+        return sb.reverse().toString();
+
         
     }
 }
