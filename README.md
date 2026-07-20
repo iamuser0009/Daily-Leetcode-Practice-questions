@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0316-remove-duplicate-letters) |
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0443-string-compression) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -172,11 +174,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0316-remove-duplicate-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
