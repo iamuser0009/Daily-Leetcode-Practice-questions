@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
