@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2785-sort-vowels-in-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2785-sort-vowels-in-a-string) |
