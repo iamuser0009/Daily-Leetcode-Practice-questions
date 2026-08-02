@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -230,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
