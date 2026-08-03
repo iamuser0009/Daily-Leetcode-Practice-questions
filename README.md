@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0229-majority-element-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
