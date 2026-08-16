@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Combinatorics
 |  |
 | ------- |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
