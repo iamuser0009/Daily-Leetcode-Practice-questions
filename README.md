@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0175-combine-two-tables) |
 | [0627-swap-sex-of-employees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0627-swap-sex-of-employees) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1587-bank-account-summary-ii) |
