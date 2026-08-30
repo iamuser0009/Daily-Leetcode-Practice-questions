@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Combinatorics
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Counting Sort
 |  |
 | ------- |
