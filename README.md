@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3904-smallest-stable-index-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
