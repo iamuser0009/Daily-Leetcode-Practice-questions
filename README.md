@@ -190,15 +190,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0129-sum-root-to-leaf-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search
 |  |
