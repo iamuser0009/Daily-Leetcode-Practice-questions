@@ -191,17 +191,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0563-binary-tree-tilt](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0563-binary-tree-tilt) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0563-binary-tree-tilt](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0563-binary-tree-tilt) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0563-binary-tree-tilt](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0563-binary-tree-tilt) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Search
 |  |
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1795-rearrange-products-table](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## DP on Trees
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
