@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3498-reverse-degree-of-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
