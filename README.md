@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1672-richest-customer-wealth) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0443-string-compression) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
