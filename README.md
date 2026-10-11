@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
