@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0713-subarray-product-less-than-k) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Simulation
