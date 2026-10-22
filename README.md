@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1672-richest-customer-wealth) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1137-n-th-tribonacci-number) |
+| [1402-reducing-dishes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1402-reducing-dishes) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0316-remove-duplicate-letters) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1402-reducing-dishes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1402-reducing-dishes) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2785-sort-vowels-in-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2785-sort-vowels-in-a-string) |
