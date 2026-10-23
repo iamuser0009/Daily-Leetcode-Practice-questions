@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -365,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
