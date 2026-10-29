@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0509-fibonacci-number) |
@@ -375,10 +377,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0494-target-sum) |
 ## Primality Test
 |  |
