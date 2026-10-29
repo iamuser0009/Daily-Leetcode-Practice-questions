@@ -22,7 +22,7 @@ class Solution {
             return true;
         }
 
-        if (i >= nums.length) return false;
+        if (i >= nums.length || target < 0) return false;
 
         if( dp[i][target] != -1)
         {
