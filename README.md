@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1518-water-bottles) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2235-add-two-integers) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0412-fizz-buzz) |
+| [1518-water-bottles](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1518-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3498-reverse-degree-of-a-string](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/3498-reverse-degree-of-a-string) |
