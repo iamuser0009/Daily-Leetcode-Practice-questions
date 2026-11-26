@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0877-stone-game) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0915-partition-array-into-disjoint-intervals) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0316-remove-duplicate-letters) |
+| [0739-daily-temperatures](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamuser0009/Daily-Leetcode-Practice-questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 |  |
